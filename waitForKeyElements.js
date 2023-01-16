@@ -83,7 +83,7 @@ function waitForKeyElements (
                                             iframeSelector
                                         );
                 },
-                300
+                1000
             );
             controlObj [controlKey] = timeControl;
         }
